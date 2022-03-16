@@ -2,6 +2,8 @@
 
 This example use NLTK library to analyse sentiment in the given text.
 
+**ML Category : Classification**
+
 ### Sample Example
 ###### Input : The pizza was awesome
 ###### Output : 
